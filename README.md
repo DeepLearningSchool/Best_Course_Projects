@@ -25,3 +25,22 @@
 | Planparser: Object detection для архитектурных планов |  @HoneyBadger128bit | `Detection` | [Клик](https://github.com/anngrrr/planparser) |
 | Transfer styles between images using neural networks! | | `Stylization` | [Клик](https://github.com/nmzhlk/image-stylization) | 
 | Styling images in a telegram bot | | `Stylization`  | [Клик](https://github.com/dkhozyainov/picture-styler)
+
+## Вторая часть курса DLS
+
+#### Лучшие проекты:
+
+| Название проекта | Телеграм ментора | Тэг проекта | Ссылка |
+|--------------|-----------|-----------|-----------|
+| English Helper Bot | - | `Agents` | [Клик](https://github.com/PollyLeo6/English_helper_bot_public) |
+
+#### Достойные упоминания проекты:
+
+| Название проекта | Телеграм ментора | Тэг проекта | Ссылка |
+|--------------|-----------|-----------|-----------|
+| Автоперевод манги | @DuvanovLuka | `Manga` | [Клик](https://github.com/ikefir34/DLS_Manga_Translator) |
+| Activation Steering: Eiffel Tower Paris → Rome | @Atmyre | `Steering` | [Клик](https://github.com/ostrowsky/LLM-fact-editing-by-steering/tree/main) |
+| LLM Fact Editing by Steering | @Atmyre | `Steering` | [Клик](https://github.com/AndrewLevchenko/LLM-Fact-Editing-By-Steering) |
+| Pancake Sorting: эвристический поиск и ML-эвристики | @Alexander_V_C | `ML in Math` | [Клик](https://github.com/MataNerdy/CayleyPy_Pancake) |
+| Pancake Sorting: Решение для соревнования CayleyPy | @Alexander_V_C | `ML in Math` | [Клик](https://github.com/Kerby247/CayleyPy_Pancake_sorting) |
+| Avito Agent | - | `Agents` | [Клик](https://github.com/yaneivan/Avito_Agent) |
