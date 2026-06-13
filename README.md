@@ -10,7 +10,7 @@
 | Integration of Semantic Segmentation into Visual SLAM | @StasGC | - | [Клик](https://github.com/ekolotvin/integration-of-semantic-segmentation-into-visual-slam)
 | Power Line Defect Detection | @HoneyBadger128bit | `Detection` | [Клик](https://github.com/iamgm/powerline-defect-detection) |
 
-#### Достойные упоминания:
+#### Достойные упоминания проекты:
 
 | Название проекта | Телеграм ментора | Тэг проекта | Ссылка |
 |--------------|-----------|-----------|-----------|
