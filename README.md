@@ -24,7 +24,7 @@
 
 | Поток курса DLS | Ссылка |
 |---|---|
-| Осень 2025 | [Клик](https://github.com/DeepLearningSchool/BestCourseProjects/tree/f25) |
+| Осень 2025 | [Клик](https://github.com/DeepLearningSchool/Best_Course_Projects/tree/f25) |
 
 </div>
 
