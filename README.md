@@ -12,7 +12,7 @@
 
 #### Лучшие проекты:
 
-| Название проекта | Ник автора | Телеграм ментора | Тэг проекта | Ссылка |
+| Название проекта | Ник/Телеграм автора | Телеграм ментора | Тэг проекта | Ссылка |
 |---|---|---|---|---|
 | Building Area Estimation from Aerial Imagery | Timur Aribzhanov | @sumkin1171 | `Geo` | [Клик](https://github.com/timur-ai/dls-1-geo) |
 | Integration of Semantic Segmentation into Visual SLAM | @ekolotvin | @StasGC | — | [Клик](https://github.com/ekolotvin/integration-of-semantic-segmentation-into-visual-slam) |
@@ -20,7 +20,7 @@
 
 #### Достойные упоминания проекты:
 
-| Название проекта | Ник автора | Телеграм ментора | Тэг проекта | Ссылка |
+| Название проекта | Ник/Телеграм автора | Телеграм ментора | Тэг проекта | Ссылка |
 |---|---|---|---|---|
 | Автоматическая сегментация зданий на спутниковых снимках | Zajinskiy Vadim | @sumkin1171 | `Geo` | [Клик](https://github.com/ZajinskiyVadim/Building-Segmentation-project) |
 | Building Density Assessment System | @Arqiuomi | @sumkin1171 | `Geo` | [Клик](https://github.com/Arqiuomi/DLS_Project) |
@@ -38,13 +38,13 @@
 
 #### Лучшие проекты:
 
-| Название проекта | Ник автора | Телеграм ментора | Тэг проекта | Ссылка |
+| Название проекта | Ник/Телеграм автора | Телеграм ментора | Тэг проекта | Ссылка |
 |---|---|---|---|---|
 | English Helper Bot | Polina Leonteva | — | `Agents` | [Клик](https://github.com/PollyLeo6/English_helper_bot_public) |
 
 #### Достойные упоминания проекты:
 
-| Название проекта | Ник автора | Телеграм ментора | Тэг проекта | Ссылка |
+| Название проекта | Ник/Телеграм автора | Телеграм ментора | Тэг проекта | Ссылка |
 |---|---|---|---|---|
 | Автоперевод манги | @ikefir_34 | @DuvanovLuka | `Manga` | [Клик](https://github.com/ikefir34/DLS_Manga_Translator) |
 | Activation Steering: Eiffel Tower Paris → Rome | @ostrowsky | @Atmyre | `Steering` | [Клик](https://github.com/ostrowsky/LLM-fact-editing-by-steering/tree/main) |
